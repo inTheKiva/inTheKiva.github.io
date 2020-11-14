@@ -42,10 +42,23 @@ Exit Records UK, Samurai Music, 31 Records
 9p-10p . MST . [Denver time] . (GMT -7)
 
 
+# Wednesday
 
-**Bold** and _Italic_ and `Code` text
+## _Vibe Check_ - #VIBECHECKshow
+### Moody beats
 
-[Link](url) and ![Image](src)
+Tones with touch
+Vibes & volumes.
+Ebb & flow.
+
+Get lost in your feels.
+
+**Sounds of:**
+Soulection artists, SoundCloud Producers, Bandcamp Beatmakers
+
+**Time:**
+9p-10p . MST . [Denver time] . (GMT -7)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
