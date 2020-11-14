@@ -8,11 +8,21 @@ The vision behind The Kiva can be summarized in three words: Beats, Rhymes, & Li
 For more links to find The Kiva online, check out our [Linktree](https://linktr.ee/TheKiva).
 
 
-## Markdown
+## ##TheKiva Radio
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#TheKiva Radio was inspired by indigenous.junglist as way of telling his side of the story when it comes to his interpretation of analyzing the sound of the drum. The programming provided will tap rims of many underground sounds but also provide listeners with feelgood jams and classic throwbacks.
 
-```markdown
+Programming will air Tuesday through Sunday. Below you will find the list of shows at their various times. Thanks for listening!
+
+```
+
+
+REMINDER: ALL SHOWS WILL BROADCAST FROM OUR LIVESETS PROFILE PAGE FOUND [HERE](https://livesets.com/the-kiva/live)
+
+
+```
+
+
 Syntax highlighted code block
 
 # Header 1
