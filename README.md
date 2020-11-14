@@ -16,6 +16,8 @@ For more links to find The Kiva online, check out our [Linktree](https://linktr.
 Programming will air Tuesday through Sunday. Shows will be archived and available for playback a week after the show aired. Below you will find the list of shows at their various times. Thanks for listening!
 
 
+-------------------------------------------------
+
 # Monday
 
 NO SHOW. Come hang out with us in the Discord sever.
@@ -23,6 +25,8 @@ NO SHOW. Come hang out with us in the Discord sever.
 -------------------------------------------------
 
 # Tuesday
+
+-------------------------------------------------
 ## _The Tech-Step Program_ - #TechStepPrgm
 **Time:** 9p-10p . MST . [Denver time] . (GMT -7)
 ### Low end theory of drum & bass.
@@ -37,9 +41,11 @@ _Ride the wave through the darkness._
 
 **Sounds of:** Homemade Weapons, Skeptical, Clarity
 
----------------------------------------------------
+-------------------------------------------------
 
 # Wednesday
+
+-------------------------------------------------
 ## _Vibe Check_ - #VIBECHECKshow
 **Time:** 9p-10p . MST . [Denver time] . (GMT -7)
 ### Moody beats
@@ -52,9 +58,11 @@ _Get lost in your feels._
 
 **Sounds of:** Soulection artists, SoundCloud Producers, Bandcamp Beatmakers
 
---------------------------------------------------
+-------------------------------------------------
 
 # Thursday
+
+-------------------------------------------------
 ## _Throwback Thursday_ - #TBTtrax
 **Time:** 9p-10p . MST . [Denver time] . (GMT -7)
 ### Throwback tracks that take you back. 
@@ -67,9 +75,11 @@ _Let's reminisce for a minute or two._
 
 **Sounds of:** 00s, 90s, 80s, music from a time ago.
 
---------------------------------------------------
+-------------------------------------------------
 
 # Friday
+
+-------------------------------------------------
 ## _Footwork Friday_ - #FWKFriday
 **Time:** 9p-10p . MST . [Denver time] . (GMT -7)
 ### Bangs & Works
@@ -82,9 +92,11 @@ _Hear the sound from Chicago that's gone global._
 
 **Sounds of:** Teklife, JukeBounceWerk, Independent artists.
 
---------------------------------------------------
+-------------------------------------------------
 
 # Saturday
+
+-------------------------------------------------
 ## _#BrokenBeatTape_ - (Every Saturday)
 **Time:** 1p-2p . MST . [Denver time] . (GMT -7)
 ### Crooked beats w/ finesse
@@ -108,10 +120,27 @@ Bright feels.
 
 _Explore the deeper side of things._
 
-
 **Labels like:** Integral Records, Critical Music, Fokuz Recordings, 1985 Music
 
 **Sounds of:** Satl, Hyroglifics, Alix Perez, Halogenix
+
+
+## _#DarksideFlex_ - (Every last Saturday)
+**Time:** 9p-11p . MST . [Denver time] . (GMT -7)
+### Underground dubs rooted in dark spaces. 
+
+Deep tones.
+Strong sub-bass
+Murky madness.
+
+_Dark mode everything._
+
+**Labels like:** Innamind Recordings, Aritkal Music UK, 1985 Music, White Peach Records
+
+**Sounds of:**  J:Kenzo, Sleeper, Ternion Sound, Mr K.
+
+
+-------------------------------------------------
 
 
 
