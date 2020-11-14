@@ -20,44 +20,48 @@ Programming will air Tuesday through Sunday. Below you will find the list of sho
 
 NO SHOW. Come hang out with us in the Discord sever.
 
-# Tuesday
 
+# Tuesday
 ## _The Tech-Step Program_ - #TechStepPrgm
+**Time:** 9p-10p . MST . [Denver time] . (GMT -7)
 ### Low end theory of drum & bass.
 
 Spatial sequences.
 Tender undertones.
 Autonomic accents.
 
-Ride the wave through the darkness.
+_Ride the wave through the darkness._
 
-**Labels like:**
-Exit Records UK, Samurai Music, 31 Records 
+**Labels like:** Exit Records UK, Samurai Music, 31 Records 
 
-**Sounds of:**
-------------
- Homemade Weapons, Skeptical, Clarity
-
-**Time:**
-9p-10p . MST . [Denver time] . (GMT -7)
+**Sounds of:** Homemade Weapons, Skeptical, Clarity
 
 
 # Wednesday
-
 ## _Vibe Check_ - #VIBECHECKshow
+**Time:** 9p-10p . MST . [Denver time] . (GMT -7)
 ### Moody beats
 
 Tones with touch
 Vibes & volumes.
 Ebb & flow.
 
-Get lost in your feels.
+_Get lost in your feels._
 
-**Sounds of:**
-Soulection artists, SoundCloud Producers, Bandcamp Beatmakers
+**Sounds of:** Soulection artists, SoundCloud Producers, Bandcamp Beatmakers
 
-**Time:**
-9p-10p . MST . [Denver time] . (GMT -7)
+# Thursday
+## _Vibe Check_ - #VIBECHECKshow
+**Time:** 9p-10p . MST . [Denver time] . (GMT -7)
+### Moody beats
+
+Tones with touch
+Vibes & volumes.
+Ebb & flow.
+
+_Get lost in your feels._
+
+**Sounds of:** Soulection artists, SoundCloud Producers, Bandcamp Beatmakers
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
