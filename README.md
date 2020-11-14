@@ -31,14 +31,14 @@ Autonomic accents.
 
 Ride the wave through the darkness.
 
-### Labels like:
+**Labels like:**
 Exit Records UK, Samurai Music, 31 Records 
 
-### Sounds of:
+**Sounds of:**
 ------------
  Homemade Weapons, Skeptical, Clarity
 
-### Time:
+**Time:**
 9p-10p . MST . [Denver time] . (GMT -7)
 
 
