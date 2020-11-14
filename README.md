@@ -22,7 +22,7 @@ NO SHOW. Come hang out with us in the Discord sever.
 
 # Tuesday
 
-## The Tech-Step Program - #TechStepPrgm
+## _The Tech-Step Program_ - #TechStepPrgm
 ### Low end theory of drum & bass.
 
 Spatial sequences.
@@ -31,18 +31,14 @@ Autonomic accents.
 
 Ride the wave through the darkness.
 
-Labels like:
------------
+### Labels like:
 Exit Records UK, Samurai Music, 31 Records 
 
-Sounds of:
+### Sounds of:
 ------------
  Homemade Weapons, Skeptical, Clarity
 
-
-Date/Time:
-------------
-Every Tuesday
+### Time:
 9p-10p . MST . [Denver time] . (GMT -7)
 
 
