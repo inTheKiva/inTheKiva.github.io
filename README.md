@@ -7,24 +7,49 @@ The vision behind The Kiva can be summarized in three words: Beats, Rhymes, & Li
 
 For more links to find The Kiva online, check out our [Linktree](https://linktr.ee/TheKiva).
 
+## REMINDER: ALL SHOWS WILL BROADCAST FROM OUR LIVESETS PROFILE PAGE FOUND [HERE](https://livesets.com/the-kiva/live)
 
-## #TheKiva Radio
+# #TheKiva Radio
 
 #TheKiva Radio was inspired by indigenous.junglist as way of telling stories when it comes to his interpretation of the drum. The programming provided will tap rims of many underground sounds but also provide listeners with feelgood jams and classic throwbacks.
 
 Programming will air Tuesday through Sunday. Below you will find the list of shows at their various times. Thanks for listening!
 
 
-## REMINDER: ALL SHOWS WILL BROADCAST FROM OUR LIVESETS PROFILE PAGE FOUND [HERE](https://livesets.com/the-kiva/live)
-
-### Monday
+# Monday
 
 NO SHOW. Come hang out with us in the Discord sever.
+
+# Tuesday
+
+## The Tech-Step Program - #TechStepPrgm
+### Low end theory of drum & bass.
+
+Spatial sequences.
+Tender undertones.
+Autonomic accents.
+
+Ride the wave through the darkness.
+
+Labels like:
+-----------
+Exit Records UK, Samurai Music, 31 Records 
+
+Sounds of:
+------------
+ Homemade Weapons, Skeptical, Clarity
+
+
+Date/Time:
+------------
+Every Tuesday
+9p-10p . MST . [Denver time] . (GMT -7)
+
+
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
