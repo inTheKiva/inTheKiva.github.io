@@ -1,10 +1,14 @@
-## Welcome to GitHub Pages
+# #TheKiva
 
-You can use the [editor on GitHub](https://github.com/inTheKiva/inTheKiva.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+ki·va /ˈkēvə/
+noun.
+- a chamber, built wholly or partly underground, traditionally used by Pueblo people for spiritual activities.
+The vision behind The Kiva can be summarized in three words: Beats, Rhymes, & Life.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For more links to find The Kiva online, check out our [Linktree](https://linktr.ee/TheKiva).
 
-### Markdown
+
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
