@@ -14,13 +14,8 @@ For more links to find The Kiva online, check out our [Linktree](https://linktr.
 
 Programming will air Tuesday through Sunday. Below you will find the list of shows at their various times. Thanks for listening!
 
-```
 
-
-REMINDER: ALL SHOWS WILL BROADCAST FROM OUR LIVESETS PROFILE PAGE FOUND [HERE](https://livesets.com/the-kiva/live)
-
-
-```
+## REMINDER: ALL SHOWS WILL BROADCAST FROM OUR LIVESETS PROFILE PAGE FOUND [HERE](https://livesets.com/the-kiva/live)
 
 
 Syntax highlighted code block
