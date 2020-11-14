@@ -11,15 +11,16 @@ For more links to find The Kiva online, check out our [Linktree](https://linktr.
 
 # #TheKiva Radio
 
-#TheKiva Radio was inspired by indigenous.junglist as way of telling stories when it comes to his interpretation of the drum. The programming provided will tap rims of many underground sounds but also provide listeners with feelgood jams and classic throwbacks.
+#TheKiva Radio was inspired by _indigenous.junglist_ as way of telling stories when it comes to his interpretation of the drum. The programming provided will tap rims of many underground sounds but also provide listeners with feelgood jams and classic throwbacks.
 
-Programming will air Tuesday through Sunday. Below you will find the list of shows at their various times. Thanks for listening!
+Programming will air Tuesday through Sunday. Shows will be archived and available for playback a week after the show aired. Below you will find the list of shows at their various times. Thanks for listening!
 
 
 # Monday
 
 NO SHOW. Come hang out with us in the Discord sever.
 
+-------------------------------------------------
 
 # Tuesday
 ## _The Tech-Step Program_ - #TechStepPrgm
@@ -36,6 +37,7 @@ _Ride the wave through the darkness._
 
 **Sounds of:** Homemade Weapons, Skeptical, Clarity
 
+---------------------------------------------------
 
 # Wednesday
 ## _Vibe Check_ - #VIBECHECKshow
@@ -50,6 +52,8 @@ _Get lost in your feels._
 
 **Sounds of:** Soulection artists, SoundCloud Producers, Bandcamp Beatmakers
 
+--------------------------------------------------
+
 # Thursday
 ## _Throwback Thursday_ - #TBTtrax
 **Time:** 9p-10p . MST . [Denver time] . (GMT -7)
@@ -62,6 +66,19 @@ OG stacks.
 _Let's reminisce for a minute or two._
 
 **Sounds of:** 00s, 90s, 80s, music from a time ago.
+
+# Friday
+## _Footwork Friday_ - #FWKFriday
+**Time:** 9p-10p . MST . [Denver time] . (GMT -7)
+### Bangs & Works
+
+Experience the footwork sound & juke it out.
+Hear the sound from Chicago that's gone global.
+RIP Rashad.
+
+_Let's reminisce for a minute or two._
+
+**Sounds of:** Teklife, JukeBounceWerk, Independent artists.
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
