@@ -109,6 +109,7 @@ _Forward thinking sounds_
 
 **Sounds of:** Sounds of 20/20 LDN & similar vibes.
 
+-------------------------------------------------
 
 ## _#LateNightLiquid_ - (Every 2nd Saturday)
 **Time:** 9p-11p . MST . [Denver time] . (GMT -7)
@@ -124,6 +125,7 @@ _Explore the deeper side of things._
 
 **Sounds of:** Satl, Hyroglifics, Alix Perez, Halogenix
 
+-------------------------------------------------
 
 ## _#DarksideFlex_ - (Every last Saturday)
 **Time:** 9p-11p . MST . [Denver time] . (GMT -7)
@@ -144,12 +146,19 @@ _Dark mode everything._
 
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Sunday
 
-### Jekyll Themes
+-------------------------------------------------
+## _Sunday Soul Food_ - #SunSoulFood
+**Time:** 6p-8p . MST . [Denver time] . (GMT -7)
+### Dinner with fam.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/inTheKiva/inTheKiva.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+A playlist made by the listeners.
+Jams that make you feel like you're home.
+Have a snack and relax.
 
-### Support or Contact
+_Music to reset the soul_
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Sounds of:** Everything and anything in between.
+
+#Thanks for stopping by!
