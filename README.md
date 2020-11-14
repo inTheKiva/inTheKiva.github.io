@@ -51,17 +51,17 @@ _Get lost in your feels._
 **Sounds of:** Soulection artists, SoundCloud Producers, Bandcamp Beatmakers
 
 # Thursday
-## _Vibe Check_ - #VIBECHECKshow
+## _Throwback Thursday_ - #TBTtrax
 **Time:** 9p-10p . MST . [Denver time] . (GMT -7)
-### Moody beats
+### Throwback tracks that take you back. 
 
-Tones with touch
-Vibes & volumes.
-Ebb & flow.
+Old school jamz.
+Nostalgic melodies.
+OG stacks.
 
-_Get lost in your feels._
+_Let's reminisce for a minute or two._
 
-**Sounds of:** Soulection artists, SoundCloud Producers, Bandcamp Beatmakers
+**Sounds of:** 00s, 90s, 80s, music from a time ago.
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
