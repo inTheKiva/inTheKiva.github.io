@@ -3,6 +3,7 @@
 ki·va /ˈkēvə/
 noun.
 - a chamber, built wholly or partly underground, traditionally used by Pueblo people for spiritual activities.
+
 The vision behind The Kiva can be summarized in three words: Beats, Rhymes, & Life.
 
 For more links to find The Kiva online, check out our [Linktree](https://linktr.ee/TheKiva).
