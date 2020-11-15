@@ -1,4 +1,4 @@
-# #TheKiva
+# #TheKiva ![kiva-placeholder](image.png)
 
 ki·va /ˈkēvə/
 noun.
