@@ -51,7 +51,7 @@ _Ride the wave through the darkness._
 **Time:** 9p-10p . MST . [Denver time] . (GMT -7)
 ### Moody beats
 
-Tones with touch
+Tones with touch.
 Vibes & volumes.
 Ebb & flow.
 
@@ -86,7 +86,7 @@ _Let's reminisce for a minute or two._
 ### Bangs & Works
 
 Experience the footwork sound & juke it out.
-Basslines to help you undwind
+Basslines to help you unwind.
 RIP Rashad.
 
 _Hear the sound from Chicago that's gone global._
@@ -116,7 +116,7 @@ _Forward thinking sounds_
 **Time:** 9p-11p . MST . [Denver time] . (GMT -7)
 ### Atmospheric drum & bass with depth. 
 
-Lush vocals,
+Lush vocals.
 Dark moods. 
 Bright feels.
 
@@ -133,7 +133,7 @@ _Explore the deeper side of things._
 ### Underground dubs rooted in dark spaces. 
 
 Deep tones.
-Strong sub-bass
+Strong sub-bass.
 Murky madness.
 
 _Dark mode everything._
