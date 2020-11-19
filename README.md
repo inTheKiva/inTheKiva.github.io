@@ -8,7 +8,7 @@ The vision behind The Kiva can be summarized in three words: _Beats, Rhymes, & L
 
 For more links to find The Kiva online, check out our [Linktree](https://linktr.ee/TheKiva).
 
-## REMINDER: ALL SHOWS WILL BROADCAST FROM OUR LIVESETS PROFILE PAGE FOUND [HERE](https://livesets.com/the-kiva/live)
+<iframe src="https://mixlr.com/users/8853829/embed" width="100%" height="180px" scrolling="no" frameborder="no" marginheight="0" marginwidth="0"></iframe><small><a href="https://mixlr.com/thekiva" style="color:#1a1a1a;text-align:left; font-family:Helvetica, sans-serif; font-size:11px;">#TheKiva</a>. Don'forget to follow us on Twitter: @inTheKiva</small>
 
 # #TheKiva Radio
 
