@@ -112,7 +112,7 @@ _Forward thinking sounds_
 
 -------------------------------------------------
 
-## _#LateNightLiquid_ - (Every 2nd Saturday)
+## _#SolidLiquid_ - (Every 2nd Saturday)
 **Time:** 9p-11p . MST . [Denver time] . (GMT -7)
 ### Atmospheric drum & bass with depth. 
 
