@@ -29,7 +29,7 @@ NO SHOW. Come hang out with us in the Discord sever.
 
 -------------------------------------------------
 ## _The Tech-Step Program_ - #TechStepPrgm
-**Time:** 9p-10p . MST . [Denver time] . (GMT -7)
+**Time:** 2100-2200.MST . (GMT -7)
 ### Low end theory of drum & bass.
 
 Spatial sequences.
@@ -38,9 +38,7 @@ Autonomic accents.
 
 _Ride the wave through the darkness._
 
-**Labels like:** Exit Records UK, Samurai Music, 31 Records 
-
-**Sounds of:** Homemade Weapons, Skeptical, Clarity
+**Labels like:** Exit Records UK, Samurai Music, 31 Records, UVB-76
 
 -------------------------------------------------
 
@@ -48,7 +46,7 @@ _Ride the wave through the darkness._
 
 -------------------------------------------------
 ## _Vibe Check_ - #VIBECHECKshow
-**Time:** 9p-10p . MST . [Denver time] . (GMT -7)
+**Time:** 2100-2200.MST . (GMT -7)
 ### Moody beats
 
 Tones with touch.
@@ -57,7 +55,7 @@ Ebb & flow.
 
 _Get lost in your feels._
 
-**Sounds of:** Soulection artists, SoundCloud Producers, Bandcamp Beatmakers
+**Sounds of:** Rising talent, Soulection artists, SoundCloud Producers, Bandcamp Beatmakers
 
 -------------------------------------------------
 
@@ -65,7 +63,7 @@ _Get lost in your feels._
 
 -------------------------------------------------
 ## _Throwback Thursday_ - #TBTtrax
-**Time:** 9p-10p . MST . [Denver time] . (GMT -7)
+**Time:** 2100-2200.MST . (GMT -7)
 ### Throwback tracks that take you back. 
 
 Old school jamz.
@@ -82,7 +80,7 @@ _Let's reminisce for a minute or two._
 
 -------------------------------------------------
 ## _Footwork Friday_ - #FWKFriday
-**Time:** 9p-10p . MST . [Denver time] . (GMT -7)
+**Time:** 2100-2200.MST . (GMT -7)
 ### Bangs & Works
 
 Experience the footwork sound & juke it out.
@@ -91,7 +89,7 @@ RIP Rashad.
 
 _Hear the sound from Chicago that's gone global._
 
-**Sounds of:** Teklife, JukeBounceWerk, Independent artists.
+**Sounds of:** Chicago footwork/juke music.
 
 -------------------------------------------------
 
@@ -99,10 +97,10 @@ _Hear the sound from Chicago that's gone global._
 
 -------------------------------------------------
 ## _#BrokenBeatTape_ - (Every Saturday)
-**Time:** 1p-2p . MST . [Denver time] . (GMT -7)
+**Time:** 1300-1400.MST . (GMT -7)
 ### Crooked beats w/ finesse
 
-Future bass
+Future bass.
 Syncopation.
 Scenes.
 
@@ -113,7 +111,7 @@ _Forward thinking sounds_
 -------------------------------------------------
 
 ## _#SolidLiquid_ - (Every 2nd Saturday)
-**Time:** 9p-11p . MST . [Denver time] . (GMT -7)
+**Time:** 2100-2300.MST . (GMT -7)
 ### Atmospheric drum & bass with depth. 
 
 Lush vocals.
@@ -124,12 +122,10 @@ _Explore the deeper side of things._
 
 **Labels like:** Integral Records, Critical Music, Fokuz Recordings, 1985 Music
 
-**Sounds of:** Satl, Hyroglifics, Alix Perez, Halogenix
-
 -------------------------------------------------
 
 ## _#DarksideFlex_ - (Every last Saturday)
-**Time:** 9p-11p . MST . [Denver time] . (GMT -7)
+**Time:** 2100p-2300.MST . (GMT -7)
 ### Underground dubs rooted in dark spaces. 
 
 Deep tones.
@@ -140,8 +136,6 @@ _Dark mode everything._
 
 **Labels like:** Innamind Recordings, Aritkal Music UK, 1985 Music, White Peach Records
 
-**Sounds of:**  J:Kenzo, Sleeper, Ternion Sound, Mr K.
-
 
 -------------------------------------------------
 
@@ -151,7 +145,7 @@ _Dark mode everything._
 
 -------------------------------------------------
 ## _Sunday Soul Food_ - #SunSoulFood
-**Time:** 6p-8p . MST . [Denver time] . (GMT -7)
+**Time:** 1800-2000.MST . (GMT -7)
 ### Dinner with fam.
 
 A playlist made by the listeners.
