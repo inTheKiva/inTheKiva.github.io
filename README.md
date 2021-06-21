@@ -62,17 +62,7 @@ _Get lost in your feels._
 # Thursday
 
 -------------------------------------------------
-## _Throwback Thursday_ - #TBTtrax
-**Time:** 2100-2200.MST . (GMT -7)
-### Throwback tracks that take you back. 
-
-Old school jamz.
-Nostalgic melodies.
-OG stacks.
-
-_Let's reminisce for a minute or two._
-
-**Sounds of:** 00s, 90s, 80s, music from a time ago.
+NO SHOW. Come hang out with us in the Discord sever.
 
 -------------------------------------------------
 
@@ -139,22 +129,10 @@ _Dark mode everything._
 
 -------------------------------------------------
 
-
-
 # Sunday
 
 -------------------------------------------------
-## _Sunday Soul Food_ - #SunSoulFood
-**Time:** 1800-2000.MST . (GMT -7)
-### Dinner with fam.
-
-A playlist made by the listeners.
-Jams that make you feel like you're home.
-Have a snack and relax.
-
-_Music to reset the soul_
-
-**Sounds of:** Everything and anything in between.
+NO SHOW. Come hang out with us in the Discord sever.
 
 
-# Thanks for stopping by!
+#Thanks for stopping by!
