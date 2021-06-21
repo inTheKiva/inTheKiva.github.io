@@ -14,7 +14,7 @@ For more links to find The Kiva online, check out our [Linktree](https://linktr.
 
 #TheKiva Radio was inspired by _indigenous.junglist_ as way of telling stories when it comes to his interpretation of the drum. The programming provided will tap rims of many underground sounds but also provide listeners with feelgood jams and classic throwbacks.
 
-Programming will air Tuesday through Sunday. Shows will be archived and available for playback a week after the show aired. Below you will find the list of shows at their various times. Thanks for listening!
+Online radio programming will air Tuesday through Saturday. Shows will be archived and available for playback via our [Mixcloud](https://www.mixcloud.com/thekiva/) profile. Below you will find the list of shows at their various times. Thanks for listening!
 
 
 -------------------------------------------------
@@ -29,7 +29,7 @@ NO SHOW. Come hang out with us in the Discord sever.
 
 -------------------------------------------------
 ## _The Tech-Step Program_ - #TechStepPrgm
-**Time:** 2100-2200.MST . (GMT -7)
+**Time:** 2100-2200.MT . (GMT -7)
 ### Low end theory of drum & bass.
 
 Spatial sequences.
@@ -46,7 +46,7 @@ _Ride the wave through the darkness._
 
 -------------------------------------------------
 ## _Vibe Check_ - #VIBECHECKshow
-**Time:** 2100-2200.MST . (GMT -7)
+**Time:** 2100-2200.MT . (GMT -7)
 ### Moody beats
 
 Tones with touch.
@@ -70,7 +70,7 @@ NO SHOW. Come hang out with us in the Discord sever.
 
 -------------------------------------------------
 ## _Footwork Friday_ - #FWKFriday
-**Time:** 2100-2200.MST . (GMT -7)
+**Time:** 2100-2200.MT . (GMT -7)
 ### Bangs & Works
 
 Experience the footwork sound & juke it out.
@@ -87,7 +87,7 @@ _Hear the sound from Chicago that's gone global._
 
 -------------------------------------------------
 ## _#BrokenBeatTape_ - (Every Saturday)
-**Time:** 1300-1400.MST . (GMT -7)
+**Time:** 1300-1400.MT . (GMT -7)
 ### Crooked beats w/ finesse
 
 Future bass.
@@ -101,7 +101,7 @@ _Forward thinking sounds_
 -------------------------------------------------
 
 ## _#SolidLiquid_ - (Every 2nd Saturday)
-**Time:** 2100-2300.MST . (GMT -7)
+**Time:** 2100-2300.MT . (GMT -7)
 ### Atmospheric drum & bass with depth. 
 
 Lush vocals.
@@ -115,7 +115,7 @@ _Explore the deeper side of things._
 -------------------------------------------------
 
 ## _#DarksideFlex_ - (Every last Saturday)
-**Time:** 2100p-2300.MST . (GMT -7)
+**Time:** 2100-2300.MT . (GMT -7)
 ### Underground dubs rooted in dark spaces. 
 
 Deep tones.
